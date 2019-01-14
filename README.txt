@@ -1,3 +1,4 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/OscarLuu/pen/ZVvPZL.
+Random Quote Machine using HTML,SCSS, jQuery with an API call to Forismatic to get quotes.
 
+https://oscarluu.github.io/RandomQuote/
  
